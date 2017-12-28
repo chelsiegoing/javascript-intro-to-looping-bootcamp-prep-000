@@ -31,5 +31,3 @@ function doWhileLoop(array) {
 
   // remove elements from array
 }
-
-  
