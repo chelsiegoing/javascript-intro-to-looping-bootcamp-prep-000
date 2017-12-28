@@ -27,5 +27,4 @@ function doWhileLoop(array) {
   // remove elements from array
   array.pop();
 }
-  return array;
 }
